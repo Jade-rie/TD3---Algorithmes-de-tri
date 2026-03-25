@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/mac/TDprog/C++/S2/TD3/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -o CMakeFiles/ex1.dir/ex1.cpp.o -c /Users/mac/TDprog/C++/S2/TD3/ex1.cpp",
+  "file": "/Users/mac/TDprog/C++/S2/TD3/ex1.cpp",
+  "output": "/Users/mac/TDprog/C++/S2/TD3/build/CMakeFiles/ex1.dir/ex1.cpp.o"
+},
+{
+  "directory": "/Users/mac/TDprog/C++/S2/TD3/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -o CMakeFiles/ex2.dir/ex2.cpp.o -c /Users/mac/TDprog/C++/S2/TD3/ex2.cpp",
+  "file": "/Users/mac/TDprog/C++/S2/TD3/ex2.cpp",
+  "output": "/Users/mac/TDprog/C++/S2/TD3/build/CMakeFiles/ex2.dir/ex2.cpp.o"
+}
+]
